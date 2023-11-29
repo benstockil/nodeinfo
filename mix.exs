@@ -41,8 +41,8 @@ defmodule Nodeinfo.MixProject do
   # Type `mix help deps` for examples and options.
   defp deps do
     [
-      {:phoenix, "~> 1.6.6"},
-      {:postgrex, ">= 0.0.0"},
+      {:phoenix, "~> 1.6"},
+      {:postgrex, ">= 0.0"},
       # {:phoenix_live_dashboard, "~> 0.2"},
       {:gettext, "~> 0.19"},
       {:jason, "~> 1.0"},
