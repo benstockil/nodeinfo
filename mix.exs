@@ -42,7 +42,7 @@ defmodule Nodeinfo.MixProject do
   defp deps do
     [
       {:phoenix, "~> 1.6"},
-      {:postgrex, ">= 0.0"},
+      {:postgrex, ">= 0.0.0"},
       # {:phoenix_live_dashboard, "~> 0.2"},
       {:gettext, "~> 0.19"},
       {:jason, "~> 1.0"},
